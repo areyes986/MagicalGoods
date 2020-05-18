@@ -65,34 +65,34 @@ Unit testing is included in the MagicalGoods/Magical project using the xUnit tes
 ## Visuals
 
 ### Home Page
-![Home Page](./MagicalGoods/wwwroot/img/home-page.png)
+![Home Page](./MagicalGoods/MagicalGoods/wwwroot/img/home-page.png)
 
 ### Shop Page
-![Shop Page](./MagicalGoods/wwwroot/img/shop.png)
+![Shop Page](./MagicalGoods/MagicalGoods/wwwroot/img/shop.png)
 
 ### Product By ID
-![Register](./MagicalGoods/wwwroot/img/product-page.png)
+![Register](./MagicalGoods/MagicalGoods/wwwroot/img/product-page.png)
 
 ### Login
-![Login](./MagicalGoods/wwwroot/img/login.png)
+![Login](./MagicalGoods/MagicalGoods/wwwroot/img/login.png)
 
 ### Register
-![Register](./MagicalGoods/wwwroot/img/register.png)
+![Register](./MagicalGoods/MagicalGoods/wwwroot/img/register.png)
 
 ### Cart Page
-![Cart](./MagicalGoods/wwwroot/img/cart.png)
+![Cart](./MagicalGoods/MagicalGoods/wwwroot/img/cart.png)
 
 ### Checkout
-![Checkout](./MagicalGoods/wwwroot/img/checkout.png)
+![Checkout](./MagicalGoods/MagicalGoods/wwwroot/img/checkout.png)
 
 ### Receipt 
-![Register](./MagicalGoods/wwwroot/img/receipt.png)
+![Register](./MagicalGoods/MagicalGoods/wwwroot/img/receipt.png)
 
 ### Admin
-![Register](./MagicalGoods/wwwroot/img/admin.png)
+![Register](./MagicalGoods/MagicalGoods/wwwroot/img/admin.png)
 
 ### Admin Overview
-![Register](./MagicalGoods/wwwroot/img/admin-overview.png)
+![Register](./MagicalGoods/MagicalGoods/wwwroot/img/admin-overview.png)
 
 ---
 ## Data Flow (Frontend, Backend, REST API)
