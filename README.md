@@ -6,7 +6,7 @@
 
 Deployed: https://magicalgoodsstore.azurewebsites.net/
 
-Vulnerability Report: [Report](/MagicalGoods/vulnerability-report.md)
+Vulnerability Report: [Report](vulnerability-report.md)
 
 ---
 ## Web Application
@@ -65,39 +65,39 @@ Unit testing is included in the MagicalGoods/Magical project using the xUnit tes
 ## Visuals
 
 ### Home Page
-![Home Page](\MagicalGoods\wwwroot\img\home-page.png)
+![Home Page](./MagicalGoods/wwwroot/img/home-page.png)
 
 ### Shop Page
-![Shop Page](\MagicalGoods\wwwroot\img\shop.png)
+![Shop Page](./MagicalGoods/wwwroot/img/shop.png)
 
 ### Product By ID
-![Register](\MagicalGoods\wwwroot\img\product-page.png)
+![Register](./MagicalGoods/wwwroot/img/product-page.png)
 
 ### Login
-![Login](\MagicalGoods\wwwroot\img\login.png)
+![Login](./MagicalGoods/wwwroot/img/login.png)
 
 ### Register
-![Register](\MagicalGoods\wwwroot\img\register.png)
+![Register](./MagicalGoods/wwwroot/img/register.png)
 
 ### Cart Page
-![Cart](\MagicalGoods\wwwroot\img\cart.png)
+![Cart](./MagicalGoods/wwwroot/img/cart.png)
 
 ### Checkout
-![Checkout](\MagicalGoods\wwwroot\img\checkout.png)
+![Checkout](./MagicalGoods/wwwroot/img/checkout.png)
 
 ### Receipt 
-![Register](\MagicalGoods\wwwroot\img\receipt.png)
+![Register](./MagicalGoods/wwwroot/img/receipt.png)
 
 ### Admin
-![Register](\MagicalGoods\wwwroot\img\admin.png)
+![Register](./MagicalGoods/wwwroot/img/admin.png)
 
 ### Admin Overview
-![Register](\MagicalGoods\wwwroot\img\admin-overview.png)
+![Register](./MagicalGoods/wwwroot/img/admin-overview.png)
 
 ---
 ## Data Flow (Frontend, Backend, REST API)
 The data is inputted in the front-end view by the user, and is posted to a route in that front-end. The front-end then calls the necessary back-end service, and sends it the necessary data for its function. The backend service takes the data and updates the database as necessary.
-![Data Flow Diagram](./assets/Flowchart.png)
+![Data Flow Diagram](./MagicalGoods/assets/Flowchart.png)
 
 ---
 ## Data Model
@@ -106,7 +106,7 @@ The data is inputted in the front-end view by the user, and is posted to a route
 Our store database has a schema as follows: we have tables for carts, cartproducts, products and orders. The Carts table has columns for ID and the userID. The CartProducts table has columns for ID, CartID, product, and quantity. The Products table has columns for ID, name of the product, price per item, description of the product, and a url for the image of the product. The Orders table has columns for ID, customer name, date of the order, total price, and cart ID. 
 
 Our user database is implemented according to the default schema of Identity.
-![Database Schema](./assets/ERD.png)
+![Database Schema](./MagicalGoods/assets/ERD.png)
 
 ---
 ## Model Properties and Requirements
